@@ -7,7 +7,7 @@ Une todo piezas buenas, express para gestionar el server, restify, para la creac
 
 #Rescato notas del proyecto a modo de chuleta
 
-Then you can excute the following queries:
+Posibles peticiones:
 
 ```
 GET http://localhost/api/v1/Customers/count
