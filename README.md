@@ -2,10 +2,10 @@
 
 El servidor rest esta montado con el proyecto [express-restify-mongoose](https://github.com/florianholzapfel/express-restify-mongoose) 
 
-Une todo piezas buenas, express para gestionar el server, restify, para la creacion del rest, y Mongoose como interfaz de mongo. 
+Une todo piezas buenas, express para gestionar el server, restify, para la creacion del rest, y Mongoose como interfaz de mongo.
 
 
-Rescato notas del proyecto a modo de chuleta
+#Rescato notas del proyecto a modo de chuleta
 
 Then you can excute the following queries:
 
